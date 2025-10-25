@@ -19,8 +19,8 @@ To run the project on your local machine, follow these steps:
 
 2.  **Clone the project:**
     ```bash
-    git clone [https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
-    cd [project-folder-name]
+    git clone [https://github.com/BaptGBM/DATA_VIZ_PROJECT.git](https://github.com/BaptGBM/DATA_VIZ_PROJECT.git)
+    cd DATA_VIZ_PROJECT
     ```
 
 3.  **Install dependencies:**
