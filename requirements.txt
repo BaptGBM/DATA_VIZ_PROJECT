@@ -1,0 +1,11 @@
+streamlit
+pandas
+altair
+geopandas
+plotly
+plotly-express
+fiona
+pyproj
+shapely
+geopandas
+

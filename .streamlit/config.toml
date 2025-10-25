@@ -1,0 +1,16 @@
+# in: .streamlit/config.toml
+
+[theme]
+# Couleur d'accent principale pour les widgets interactifs (slider, boutons, etc.)
+primaryColor = "#00A9FF" # Un bleu électrique vif
+
+# Couleur de fond principale de l'application
+backgroundColor = "#0E1117" # Un noir/gris très sombre
+
+# Couleur de fond pour la sidebar, les menus, et les zones de code
+secondaryBackgroundColor = "#262730" # Un gris un peu plus clair
+
+textColor = "#FAFAFA" # Blanc cassé
+
+# Police de caractères (optionnel, sans-serif est une valeur sûre)
+font = "sans serif"
