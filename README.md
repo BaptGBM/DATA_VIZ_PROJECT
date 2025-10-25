@@ -1,7 +1,6 @@
 # Analysis of the Electric Vehicle Charging Network in France
 
-You can see the dashboard on streamlit community cloud on this link : https://datavizproject-d7qxrqi7snwzxhmp4vwsmy.streamlit.app/
-
+You can see the dashboard on streamlit community cloud on this link : https://datavizproject-kb4jc2idu9acceik5y9fwe.streamlit.app/
 #Project Description
 
 This project is an interactive dashboard developed with Streamlit that provides an in-depth analysis of the deployment of electric vehicle charging stations in France.
